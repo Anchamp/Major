@@ -1,0 +1,6 @@
+numpy
+opencv-contrib-python
+PyQt5
+pyqtgraph
+pandas
+scikit-learn
